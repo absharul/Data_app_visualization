@@ -18,7 +18,7 @@ class AwassScreen extends ConsumerWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'PMAY Visualization',
+          'Pradhan Mantri Awas Yojna',
           style: TextStyle(
               color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
         ),
