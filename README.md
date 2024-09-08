@@ -6,10 +6,10 @@ apk link : https://drive.google.com/file/d/1Tf2F0SKfXG5JpzLFfjdUrtuUZPB7bAV2/vie
 
 # Project Info.
 
-- [For routing I have GO-router]
-- [Used fl_charts for charts]
-- [Riverpod for state management]
-- [Used freezed for data model]
+- For routing I have used GO-router
+- Used fl_charts for charts
+- Riverpod for state management
+- Used freezed for data model
 
 
 ## Getting Started
