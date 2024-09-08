@@ -14,7 +14,7 @@ class ChartScreen extends ConsumerWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Crops Chart Visulization',
+          'Crops Chart Visualization',
           style: TextStyle(
               color: Colors.white, fontSize: 18, fontWeight: FontWeight.bold),
         ),
@@ -149,7 +149,7 @@ class ChartScreen extends ConsumerWidget {
                     return Padding(
                       padding: const EdgeInsets.all(5.0),
                       child: Container(
-                        height: 220,
+                        height: 240.0,
                         width: double.maxFinite,
                         decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(0),

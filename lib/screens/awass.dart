@@ -154,7 +154,7 @@ class AwassScreen extends ConsumerWidget {
                     return Padding(
                       padding: const EdgeInsets.all(5.0),
                       child: Container(
-                        height: 100,
+                        height: 110.0,
                         width: double.maxFinite,
                         decoration: BoxDecoration(
                             borderRadius: BorderRadius.circular(0),
@@ -177,7 +177,7 @@ class AwassScreen extends ConsumerWidget {
                                         color: Colors.orange),
                                   ),
                                   const SizedBox(
-                                    width: 120.0,
+                                    width: 100.0,
                                   )
                                 ],
                               ),
@@ -194,7 +194,7 @@ class AwassScreen extends ConsumerWidget {
                                         color: Colors.green),
                                   ),
                                   const SizedBox(
-                                    width: 120.0,
+                                    width: 100.0,
                                   )
                                 ],
                               ),
@@ -211,7 +211,7 @@ class AwassScreen extends ConsumerWidget {
                                         const BoxDecoration(color: Colors.blue),
                                   ),
                                   const SizedBox(
-                                    width: 120.0,
+                                    width: 100.0,
                                   )
                                 ],
                               ),
