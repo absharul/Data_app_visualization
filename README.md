@@ -3,6 +3,7 @@
 Flutter App assignment from Pragament Tech Solutions Pvt.ltd
 
 apk link : https://drive.google.com/file/d/1Tf2F0SKfXG5JpzLFfjdUrtuUZPB7bAV2/view?usp=sharing
+YouTube video link: https://youtu.be/B3qNubfxCZw
 
 # Project Info.
 

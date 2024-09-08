@@ -17,9 +17,7 @@ class DataCropModel with _$DataCropModel {
     double? modalPrice,
   }) = _DataCropModel;
 
-  // factory DataCropModel.fromJson(Map<String, dynamic> json) => _$DataCropModelFromJson(json);
   factory DataCropModel.fromJson(Map<String, dynamic> json) {
-
     double? parseDouble(String? value) {
       return value != null ? double.tryParse(value) : null;
     }
@@ -35,9 +33,6 @@ class DataCropModel with _$DataCropModel {
       minPrice: parseDouble(json['min_price'] as String?),
       maxPrice: parseDouble(json['max_price'] as String?),
       modalPrice: parseDouble(json['modal_price'] as String?),
-      // minPrice: (json['min_price'] as num?)?.toDouble(),
-      // maxPrice: (json['max_price'] as num?)?.toDouble(),
-      // modalPrice: (json['modal_price'] as num?)?.toDouble(),
     );
   }
 }
